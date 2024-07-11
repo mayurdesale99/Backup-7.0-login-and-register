@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Mayur Desale",
+      "email": "mayur@gmail.com",
+      "address": "123 Main St",
+      "phone": "1234567890",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "name": "Vishal Bauri",
+      "email": "Vishal@gmail.com",
+      "address": "456 Elm St",
+      "phone": "0987654321",
+      "password": "password456"
+    },
+    {
+      "id": "f2b5",
+      "name": "mayur",
+      "email": "msm@hg.com",
+      "address": "Nashik",
+      "phone": "9499494900"
+    },
+    {
+      "id": "edca",
+      "username": "MAYUR",
+      "email": "mayur@hg.com",
+      "password": "123456"
+    },
+    {
+      "id": "741b",
+      "name": "Mayur Bhausaheb Desale",
+      "email": "mayur.desale@mphasis.com",
+      "address": "Nashik",
+      "phone": "9921790350",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": "4b5d",
+      "name": "Mayur Bhausaheb Desale",
+      "email": "mayur.desale@mphasis.com",
+      "address": "Nashik",
+      "phone": "9921790350",
+      "password": "123456",
+      "confirmPassword": "123456"
+    }
+  ]
+}
